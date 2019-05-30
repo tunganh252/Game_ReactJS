@@ -10,7 +10,7 @@ class XucXac extends Component {
           <img
             style={{ width: "70px", height: "70px" }}
             src={item.hinhAnh}
-            alt="hinhAnh"
+            alt={item.id}
           />
         </div>
       );

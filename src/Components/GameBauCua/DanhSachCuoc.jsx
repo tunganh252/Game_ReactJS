@@ -11,7 +11,7 @@ class DanhSachCuoc extends Component {
           className="btn btn-success d-flex justify-content-center align-items-center">
             <img 
             style={{width: '200px', height: '200px'}}
-            className="mr-2" src={item.hinhAnh} alt="hinhanh" />
+            className="mr-2" src={item.hinhAnh} alt={item.id} />
             <p className='display-4 dis'>
               <span>+</span>
             {item.diemCuoc}</p>

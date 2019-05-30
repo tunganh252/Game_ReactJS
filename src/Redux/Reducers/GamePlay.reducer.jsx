@@ -2,32 +2,32 @@ const stateGame = {
   mangCuoc: [
     {
       id: "bau",
-      hinhAnh: "/public/img/tom.PNG",
+      hinhAnh: "img/tom.PNG",
       diemCuoc: 0
     },
     {
       id: "cua",
-      hinhAnh: "/public/img/ca.PNG",
+      hinhAnh: "img/ca.PNG",
       diemCuoc: 0
     },
     {
       id: "tom",
-      hinhAnh: "/public/img/cua.PNG",
+      hinhAnh: "img/cua.PNG",
       diemCuoc: 0
     },
     {
       id: "ca",
-      hinhAnh: "/public/img/ga.PNG",
+      hinhAnh: "img/ga.PNG",
       diemCuoc: 0
     },
     {
       id: "nai",
-      hinhAnh: "/public/img/nai.PNG",
+      hinhAnh: "img/nai.PNG",
       diemCuoc: 0
     },
     {
       id: "ga",
-      hinhAnh: "/public/img/bau.PNG",
+      hinhAnh: "img/bau.PNG",
       diemCuoc: 0
     }
   ],
@@ -37,15 +37,15 @@ const stateGame = {
   xucXac: [
     {
       id: "cua",
-      hinhAnh: "./img/cua.png"
+      hinhAnh: "img/cua.png"
     },
     {
       id: "cua",
-      hinhAnh: "./img/cua.png"
+      hinhAnh: "img/cua.png"
     },
     {
       id: "cua",
-      hinhAnh: "./img/cua.png"
+      hinhAnh: "img/cua.png"
     }
   ]
 };
